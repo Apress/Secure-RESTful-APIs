@@ -1,0 +1,5 @@
+com\apress\JWT_Security_Authentication\controllers\IUserService.class
+com\apress\JWT_Security_Authentication\JwtSecurityAuthenticationApplication.class
+com\apress\JWT_Security_Authentication\repository\UserRepository.class
+com\apress\JWT_Security_Authentication\models\Role.class
+com\apress\JWT_Security_Authentication\repository\RoleRepository.class
